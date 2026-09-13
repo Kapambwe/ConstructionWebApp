@@ -1,0 +1,5 @@
+[
+  { "username": "admin@construction.test", "password": "Construction123!", "displayName": "Construction Administrator", "role": "Administrator" },
+  { "username": "project.manager@construction.test", "password": "Construction123!", "displayName": "Project Manager", "role": "ProjectManager" },
+  { "username": "viewer@construction.test", "password": "Construction123!", "displayName": "Project Viewer", "role": "Viewer" }
+]
